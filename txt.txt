@@ -1,0 +1,9 @@
+===========================================================
+https://mdbootstrap.com/bootstrap-gulp-tutorial/           MDBOOTSTRAP
+===========================================================
+    npm install mdbootstrap
+
+   f*******************************************************
+    npm install --save-dev gulp-sass gulp-autoprefixer gulp-cssmin browser-sync gulp-concat gulp-minify gulp-rename gulp-imagemin
+
+    gulp mdb-go
